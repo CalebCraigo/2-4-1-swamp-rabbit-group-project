@@ -48,3 +48,15 @@ section img{
   border: solid 5px;
 
 }
+
+@media (max-width:768px) {
+  .images {
+    display: none;
+  }
+}
+
+@media (max-width:768px) {
+  .imageone {
+    width: 95%;
+  }
+}
