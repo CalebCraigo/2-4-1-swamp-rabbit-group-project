@@ -8,6 +8,7 @@ body {
   text-align: center;
 }
 
+<<<<<<< HEAD
 
 img {
   width: 10%;
@@ -38,4 +39,12 @@ h2 {
 hr {
   width: 100%;
   border-top: 3px solid black;
+}
+
+section img{
+  width: 30%;
+  height: 240px;
+  margin: 2% 1% 2% 1%;
+  border: solid 5px;
+
 }
