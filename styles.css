@@ -7,3 +7,20 @@ body {
   margin: auto;
   text-align: center;
 }
+
+img {
+  width: 10%;
+  margin: 30px;
+}
+
+h1 {
+  border-bottom: solid 3px black;
+  padding-bottom: 30px;
+
+
+}
+
+.border-top {
+  border-bottom: solid 3px black;
+  padding: 50px;
+}
