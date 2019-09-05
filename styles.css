@@ -8,6 +8,7 @@ body {
   text-align: center;
 }
 
+
 img {
   width: 10%;
   margin: 30px;
@@ -25,7 +26,8 @@ h1 {
   padding: 50px;
 
 /*****************FOOTER*******************/
-footer {
+
+ footer {
   text-align: center;
 }
 h2 {
@@ -35,8 +37,5 @@ h2 {
 
 hr {
   width: 100%;
-  height: 20px;
-  border-width: 2px;
-  border-color: black;
->>>>>>> syles for the footer
+  border-top: 3px solid black;
 }
