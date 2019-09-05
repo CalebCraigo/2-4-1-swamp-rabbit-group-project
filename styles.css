@@ -10,16 +10,27 @@ body {
 }
 
 
+.container {
+  text-align: center;
+}
 
-img {
-  width: 10%;
-  margin: 30px;
+.section {
+  vertical-align: middle;
+}
 
 .bike {
-  width: 30%;
-  height: 30%;
+  height: 110px;
+  width: 110px;
+  margin-top: 20px;
+}
+
+.circle {
+  width: 170px;
+  height: 150px;
   background: #00628c;
   border-radius: 50%;
+  margin-top: 50px;
+
 
 }
 
